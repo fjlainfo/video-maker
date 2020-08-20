@@ -20,3 +20,11 @@ File: 'watson-nlu.json'
     "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/7838fced3aff4026b326195986b2bd62::serviceid:ServiceId-cdf1e54b-bc77-4b6a-a99c-69670bfc2469",
     "url": "https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/5c25b70b-4f65-4302-8ff6-2ca3f05176db"
 }
+
+## google search
+
+File: 'google-search.json'
+```
+{
+    "ApiKey": "AIzaSyB3AkWoxDwUkAXM5sHynrActqwMNa4CAZ8"
+}
